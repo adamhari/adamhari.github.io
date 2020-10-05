@@ -15,7 +15,7 @@
 
 ### [Wishlist Cross-Platform App](https://play.google.com/store/apps/details?id=com.adamhari.wishingwell)
 
-- allows user to **create and manage wishlists** consisting of product descriptions and URLs, along with **support for friends**
+- allows user to **create and manage wishlists** consisting of product descriptions and URLs, along with a friend system
 - features **authentication via Google and Firebase**
 - functions with or without authentication, allowing user to **sign in later and sync local data with the cloud**
 - supports **Android, iOS, and web platforms**
