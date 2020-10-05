@@ -1,5 +1,7 @@
 # Adam Hari's Portfolio Projects
 
+---
+
 ### [Shogun 470XD Web Instrument](https://github.com/adamhari/piano-roll)
 
 - allows user to record, synthesize, load, and manipulate audio using a web interface
