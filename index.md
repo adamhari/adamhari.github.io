@@ -2,7 +2,7 @@
 
 ---
 
-### [Shogun 470XD Web Instrument](https://github.com/adamhari/piano-roll)
+### [Web Instrument](https://github.com/adamhari/piano-roll)
 
 - allows user to record, synthesize, load, and manipulate audio using a web interface
 - supports music performance via computer keyboard, midi controller, and pointing device
@@ -13,11 +13,12 @@
 
 ---
 
-### [Wishing Well Mobile App](https://play.google.com/store/apps/details?id=com.adamhari.wishingwell)
+### [Wishlist Cross-Platform App](https://play.google.com/store/apps/details?id=com.adamhari.wishingwell)
 
 - allows user to create and store wishlists consisting of product descriptions and URLs, along with adding and managing friends
-- supports authentication via Google and Firebase
+- features authentication via Google and Firebase
 - functions with or without authentication, allowing user to sign in later and sync local data with the cloud
+- supports Android, iOS, and web platforms
 - built with React Native, Expo, Redux, Firebase, UI-Kitten, React-Navigation
 
 ![Image](https://i.imgur.com/xtaICvn.png)
