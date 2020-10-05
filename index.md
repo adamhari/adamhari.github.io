@@ -5,7 +5,7 @@
 ![Image](https://i.imgur.com/VZ4Q6xG.png)
 
 - allows user to record, synthesize, load, and manipulate audio using a web interface
-- supports music performance via comupter keyboards, midi controllers, and pointing devices
+- supports music performance via computer keyboard, midi controller, and pointing device
 - styled using vector assets and relative measurements exclusively to allow for quality UI scaling
 - built with React.js, Styled Components, Tone.js, WebMidi.js, waveform-data 
 
