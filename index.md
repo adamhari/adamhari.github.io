@@ -4,7 +4,7 @@
 
 ### [Web Instrument](https://github.com/adamhari/piano-roll)
 
-- allows user to **record, synthesize, load, and manipulate audio** through a web interface
+- allows user to **import, record, or synthesize and manipulate audio** through a web interface
 - supports **music performance via computer keyboard, midi controller, and pointing device**
 - styled using **vector assets and relative measurements exclusively** to allow for quality UI scaling
 - built with **React.js, Styled Components, Tone.js, WebMidi.js, waveform-data**
