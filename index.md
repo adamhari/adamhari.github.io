@@ -9,7 +9,7 @@
 - styled using **vector assets and relative measurements exclusively** to allow for quality UI scaling
 - built with **React.js, Styled Components, Tone.js, WebMidi.js, waveform-data**
 
-![Web Instrument Image](blob:https://imgur.com/4694f443-8b5f-4e9f-ba8e-679a2afcbe14)
+![Web Instrument Image](https://i.imgur.com/cgVdPaj.png)
 
 ---
 
