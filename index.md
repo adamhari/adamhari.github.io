@@ -1,4 +1,4 @@
-# Adam Hari's Portfolio Projects
+# Portfolio Projects
 
 ---
 
