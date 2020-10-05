@@ -17,5 +17,3 @@
 - supports authentication via Google and Firebase
 - functions with or without authentication, allowing user to sign in later and sync local data with the cloud
 - built with React Native, Expo, Redux, Firebase, UI-Kitten, React-Navigation
-
-![Image](src)
