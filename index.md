@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+# Adam Hari's Portfolio Projects
 
-You can use the [editor on GitHub](https://github.com/adamhari/adamhari.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Shogun 470XD Web Instrument
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- allows user to record, synthesize, load, and manipulate audio using a web interface
+- supports music performance via comupter keyboards, midi controllers, and pointing devices
+- styled using vector assets and relative measurements exclusively to allow for quality UI scaling
+- built with React.js, Styled Components, Tone.js, WebMidi.js, waveform-data 
 
-### Markdown
+### Wishing Well Mobile App
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- allows user to create and store wishlists consisting of product descriptions and URLs, along with adding and managing friends
+- supports authentication via Google and Firebase
+- functions with or without authentication, allowing user to sign in later and sync local data with the cloud
+- built with React Native, Expo, Redux, Firebase, UI-Kitten, React-Navigation
+
 
 ```markdown
 Syntax highlighted code block
