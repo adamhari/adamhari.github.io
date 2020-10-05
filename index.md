@@ -9,7 +9,7 @@
 - styled using **vector assets and relative measurements exclusively** to allow for quality UI scaling
 - built with **React.js, Styled Components, Tone.js, WebMidi.js, waveform-data**
 
-![Image](https://i.imgur.com/VZ4Q6xG.png)
+![Web Instrument Image](blob:https://imgur.com/4694f443-8b5f-4e9f-ba8e-679a2afcbe14)
 
 ---
 
@@ -21,6 +21,6 @@
 - supports **Android, iOS, and web platforms**
 - built with **React Native, Expo, Redux, Firebase, UI-Kitten, React-Navigation**
 
-![Image](https://i.imgur.com/xtaICvn.png)
+![Wishlist Cross-Platform App Image](https://i.imgur.com/xtaICvn.png)
 
 
